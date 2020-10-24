@@ -1,4 +1,4 @@
-MongoDB Assignment 3
+MongoDB Assignment 3 
 
 Exercise Questions 
 1.Write a MongoDB query to display all the documents in the collection restaurants. 
